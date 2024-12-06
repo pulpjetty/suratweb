@@ -1,0 +1,716 @@
+[25-Dec-2020 22:44:37 UTC] PHP Warning:  require(/home/bangotdc/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/bangotdc/public_html/index.php on line 24
+[25-Dec-2020 22:44:37 UTC] PHP Warning:  require(/home/bangotdc/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/bangotdc/public_html/index.php on line 24
+[25-Dec-2020 22:44:37 UTC] PHP Fatal error:  require(): Failed opening required '/home/bangotdc/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bangotdc/public_html/index.php on line 24
+[20-Mar-2021 21:22:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bangotdc/surat/bootstrap/app.php:14
+Stack trace:
+#0 /home/bangotdc/public_html/index.php(40): require_once()
+#1 {main}
+  thrown in /home/bangotdc/surat/bootstrap/app.php on line 14
+[20-Mar-2021 21:23:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bangotdc/surat/bootstrap/app.php:14
+Stack trace:
+#0 /home/bangotdc/public_html/index.php(40): require_once()
+#1 {main}
+  thrown in /home/bangotdc/surat/bootstrap/app.php on line 14
+[20-Mar-2021 21:23:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bangotdc/surat/bootstrap/app.php:14
+Stack trace:
+#0 /home/bangotdc/public_html/index.php(40): require_once()
+#1 {main}
+  thrown in /home/bangotdc/surat/bootstrap/app.php on line 14
+[20-Mar-2021 21:23:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bangotdc/surat/bootstrap/app.php:14
+Stack trace:
+#0 /home/bangotdc/public_html/index.php(40): require_once()
+#1 {main}
+  thrown in /home/bangotdc/surat/bootstrap/app.php on line 14
+[20-Mar-2021 21:23:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bangotdc/surat/bootstrap/app.php:14
+Stack trace:
+#0 /home/bangotdc/public_html/index.php(40): require_once()
+#1 {main}
+  thrown in /home/bangotdc/surat/bootstrap/app.php on line 14
+[20-Mar-2021 21:23:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bangotdc/surat/bootstrap/app.php:14
+Stack trace:
+#0 /home/bangotdc/public_html/index.php(40): require_once()
+#1 {main}
+  thrown in /home/bangotdc/surat/bootstrap/app.php on line 14
+[20-Mar-2021 21:24:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bangotdc/surat/bootstrap/app.php:14
+Stack trace:
+#0 /home/bangotdc/public_html/index.php(40): require_once()
+#1 {main}
+  thrown in /home/bangotdc/surat/bootstrap/app.php on line 14
+[20-Mar-2021 21:24:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bangotdc/surat/bootstrap/app.php:14
+Stack trace:
+#0 /home/bangotdc/public_html/index.php(40): require_once()
+#1 {main}
+  thrown in /home/bangotdc/surat/bootstrap/app.php on line 14
+[20-Mar-2021 21:25:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bangotdc/surat/bootstrap/app.php:14
+Stack trace:
+#0 /home/bangotdc/public_html/index.php(40): require_once()
+#1 {main}
+  thrown in /home/bangotdc/surat/bootstrap/app.php on line 14
+[20-Mar-2021 21:25:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bangotdc/surat/bootstrap/app.php:14
+Stack trace:
+#0 /home/bangotdc/public_html/index.php(40): require_once()
+#1 {main}
+  thrown in /home/bangotdc/surat/bootstrap/app.php on line 14
+[20-Mar-2021 21:25:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bangotdc/surat/bootstrap/app.php:14
+Stack trace:
+#0 /home/bangotdc/public_html/index.php(40): require_once()
+#1 {main}
+  thrown in /home/bangotdc/surat/bootstrap/app.php on line 14
+[20-Mar-2021 21:25:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bangotdc/surat/bootstrap/app.php:14
+Stack trace:
+#0 /home/bangotdc/public_html/index.php(40): require_once()
+#1 {main}
+  thrown in /home/bangotdc/surat/bootstrap/app.php on line 14
+[20-Mar-2021 21:25:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bangotdc/surat/bootstrap/app.php:14
+Stack trace:
+#0 /home/bangotdc/public_html/index.php(40): require_once()
+#1 {main}
+  thrown in /home/bangotdc/surat/bootstrap/app.php on line 14
+[20-Mar-2021 21:25:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bangotdc/surat/bootstrap/app.php:14
+Stack trace:
+#0 /home/bangotdc/public_html/index.php(40): require_once()
+#1 {main}
+  thrown in /home/bangotdc/surat/bootstrap/app.php on line 14
+[20-Mar-2021 21:25:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bangotdc/surat/bootstrap/app.php:14
+Stack trace:
+#0 /home/bangotdc/public_html/index.php(40): require_once()
+#1 {main}
+  thrown in /home/bangotdc/surat/bootstrap/app.php on line 14
+[20-Mar-2021 21:28:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bangotdc/surat/bootstrap/app.php:14
+Stack trace:
+#0 /home/bangotdc/public_html/index.php(40): require_once()
+#1 {main}
+  thrown in /home/bangotdc/surat/bootstrap/app.php on line 14
+[20-Mar-2021 21:28:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bangotdc/surat/bootstrap/app.php:14
+Stack trace:
+#0 /home/bangotdc/public_html/index.php(40): require_once()
+#1 {main}
+  thrown in /home/bangotdc/surat/bootstrap/app.php on line 14
+[20-Mar-2021 21:33:18 UTC] PHP Warning:  require(/home/bangotdc/public_html/../surat/vendor/autoload.php): failed to open stream: No such file or directory in /home/bangotdc/public_html/index.php on line 25
+[20-Mar-2021 21:33:18 UTC] PHP Warning:  require(/home/bangotdc/public_html/../surat/vendor/autoload.php): failed to open stream: No such file or directory in /home/bangotdc/public_html/index.php on line 25
+[20-Mar-2021 21:33:18 UTC] PHP Fatal error:  require(): Failed opening required '/home/bangotdc/public_html/../surat/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bangotdc/public_html/index.php on line 25
+[21-Mar-2021 06:57:07 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 06:57:10 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 06:57:13 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 06:57:15 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 06:57:15 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 06:57:17 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:00:49 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:00:50 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:01:22 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:01:23 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:01:23 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:01:24 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:01:24 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:01:39 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:01:40 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:01:41 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:01:42 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:01:42 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:01:43 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:01:44 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:02:30 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:02:31 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:02:31 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:02:32 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:06:33 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:10:17 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:10:35 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:10:44 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:17 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:19 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:19 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:19 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:20 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:20 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:20 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:20 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:20 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:21 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:21 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:21 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:21 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:21 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:21 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:22 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:22 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:22 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:23 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:23 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:23 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:57 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:58 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:58 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:58 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:59 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:59 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:59 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:12:59 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:14:58 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 07:23:33 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 08:47:48 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 08:47:50 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 08:47:51 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 08:47:51 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 08:47:51 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 08:47:52 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 08:47:52 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 08:47:53 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 08:47:54 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 08:47:54 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 08:47:55 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 08:47:55 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 09:39:05 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 09:41:08 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array)
+#3 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#4 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php(264): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#5 /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Conta in /home/bangotdc/surat/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[21-Mar-2021 09:42:48 UTC] PHP Warning:  require(/home/bangotdc/public_html/../surat/vendor/autoload.php): failed to open stream: No such file or directory in /home/bangotdc/public_html/index.php on line 25
+[21-Mar-2021 09:42:48 UTC] PHP Warning:  require(/home/bangotdc/public_html/../surat/vendor/autoload.php): failed to open stream: No such file or directory in /home/bangotdc/public_html/index.php on line 25
+[21-Mar-2021 09:42:48 UTC] PHP Fatal error:  require(): Failed opening required '/home/bangotdc/public_html/../surat/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bangotdc/public_html/index.php on line 25
+[21-Mar-2021 09:42:48 UTC] PHP Warning:  require(/home/bangotdc/public_html/../surat/vendor/autoload.php): failed to open stream: No such file or directory in /home/bangotdc/public_html/index.php on line 25
+[21-Mar-2021 09:42:48 UTC] PHP Warning:  require(/home/bangotdc/public_html/../surat/vendor/autoload.php): failed to open stream: No such file or directory in /home/bangotdc/public_html/index.php on line 25
+[21-Mar-2021 09:42:48 UTC] PHP Fatal error:  require(): Failed opening required '/home/bangotdc/public_html/../surat/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bangotdc/public_html/index.php on line 25
+[21-Mar-2021 09:42:49 UTC] PHP Warning:  require(/home/bangotdc/public_html/../surat/vendor/autoload.php): failed to open stream: No such file or directory in /home/bangotdc/public_html/index.php on line 25
+[21-Mar-2021 09:42:49 UTC] PHP Warning:  require(/home/bangotdc/public_html/../surat/vendor/autoload.php): failed to open stream: No such file or directory in /home/bangotdc/public_html/index.php on line 25
+[21-Mar-2021 09:42:49 UTC] PHP Fatal error:  require(): Failed opening required '/home/bangotdc/public_html/../surat/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bangotdc/public_html/index.php on line 25
+[21-Mar-2021 09:42:49 UTC] PHP Warning:  require(/home/bangotdc/public_html/../surat/vendor/autoload.php): failed to open stream: No such file or directory in /home/bangotdc/public_html/index.php on line 25
+[21-Mar-2021 09:42:49 UTC] PHP Warning:  require(/home/bangotdc/public_html/../surat/vendor/autoload.php): failed to open stream: No such file or directory in /home/bangotdc/public_html/index.php on line 25
+[21-Mar-2021 09:42:49 UTC] PHP Fatal error:  require(): Failed opening required '/home/bangotdc/public_html/../surat/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bangotdc/public_html/index.php on line 25
+[21-Mar-2021 09:43:22 UTC] PHP Warning:  require(/home/bangotdc/surat/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/bangotdc/surat/vendor/composer/autoload_real.php on line 71
+[21-Mar-2021 09:43:22 UTC] PHP Warning:  require(/home/bangotdc/surat/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/bangotdc/surat/vendor/composer/autoload_real.php on line 71
+[21-Mar-2021 09:43:22 UTC] PHP Fatal error:  require(): Failed opening required '/home/bangotdc/surat/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bangotdc/surat/vendor/composer/autoload_real.php on line 71
+[21-Mar-2021 09:43:22 UTC] PHP Warning:  require(/home/bangotdc/surat/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/bangotdc/surat/vendor/composer/autoload_real.php on line 71
+[21-Mar-2021 09:43:22 UTC] PHP Warning:  require(/home/bangotdc/surat/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/bangotdc/surat/vendor/composer/autoload_real.php on line 71
+[21-Mar-2021 09:43:22 UTC] PHP Fatal error:  require(): Failed opening required '/home/bangotdc/surat/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bangotdc/surat/vendor/composer/autoload_real.php on line 71
+[21-Mar-2021 09:43:23 UTC] PHP Warning:  require(/home/bangotdc/surat/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/bangotdc/surat/vendor/composer/autoload_real.php on line 71
+[21-Mar-2021 09:43:23 UTC] PHP Warning:  require(/home/bangotdc/surat/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/bangotdc/surat/vendor/composer/autoload_real.php on line 71
+[21-Mar-2021 09:43:23 UTC] PHP Fatal error:  require(): Failed opening required '/home/bangotdc/surat/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bangotdc/surat/vendor/composer/autoload_real.php on line 71
+[21-Mar-2021 09:43:23 UTC] PHP Warning:  require(/home/bangotdc/surat/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/bangotdc/surat/vendor/composer/autoload_real.php on line 71
+[21-Mar-2021 09:43:23 UTC] PHP Warning:  require(/home/bangotdc/surat/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/bangotdc/surat/vendor/composer/autoload_real.php on line 71
+[21-Mar-2021 09:43:23 UTC] PHP Fatal error:  require(): Failed opening required '/home/bangotdc/surat/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bangotdc/surat/vendor/composer/autoload_real.php on line 71
+[21-Mar-2021 09:43:23 UTC] PHP Warning:  require(/home/bangotdc/surat/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/bangotdc/surat/vendor/composer/autoload_real.php on line 71
+[21-Mar-2021 09:43:23 UTC] PHP Warning:  require(/home/bangotdc/surat/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/bangotdc/surat/vendor/composer/autoload_real.php on line 71
+[21-Mar-2021 09:43:23 UTC] PHP Fatal error:  require(): Failed opening required '/home/bangotdc/surat/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bangotdc/surat/vendor/composer/autoload_real.php on line 71
+[21-Mar-2021 09:47:10 UTC] PHP Warning:  require(/home/bangotdc/surat/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/bangotdc/surat/vendor/composer/autoload_real.php on line 71
+[21-Mar-2021 09:47:10 UTC] PHP Warning:  require(/home/bangotdc/surat/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/bangotdc/surat/vendor/composer/autoload_real.php on line 71
+[21-Mar-2021 09:47:10 UTC] PHP Fatal error:  require(): Failed opening required '/home/bangotdc/surat/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bangotdc/surat/vendor/composer/autoload_real.php on line 71
+[21-Mar-2021 09:47:11 UTC] PHP Warning:  require(/home/bangotdc/surat/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/bangotdc/surat/vendor/composer/autoload_real.php on line 71
+[21-Mar-2021 09:47:11 UTC] PHP Warning:  require(/home/bangotdc/surat/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/bangotdc/surat/vendor/composer/autoload_real.php on line 71
+[21-Mar-2021 09:47:11 UTC] PHP Fatal error:  require(): Failed opening required '/home/bangotdc/surat/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bangotdc/surat/vendor/composer/autoload_real.php on line 71
+[21-Mar-2021 09:47:12 UTC] PHP Warning:  require(/home/bangotdc/surat/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/bangotdc/surat/vendor/composer/autoload_real.php on line 71
+[21-Mar-2021 09:47:12 UTC] PHP Warning:  require(/home/bangotdc/surat/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/bangotdc/surat/vendor/composer/autoload_real.php on line 71
+[21-Mar-2021 09:47:12 UTC] PHP Fatal error:  require(): Failed opening required '/home/bangotdc/surat/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bangotdc/surat/vendor/composer/autoload_real.php on line 71
+[21-Mar-2021 13:57:20 UTC] PHP Fatal error:  Trait 'Laravel\Passport\HasApiTokens' not found in /home/bangotdc/surat/app/User.php on line 12
+[21-Mar-2021 14:04:54 UTC] PHP Fatal error:  Trait 'Laravel\Passport\HasApiTokens' not found in /home/bangotdc/surat/app/User.php on line 12
+[21-Mar-2021 14:05:25 UTC] PHP Fatal error:  Trait 'Laravel\Passport\HasApiTokens' not found in /home/bangotdc/surat/app/User.php on line 12
+[21-Mar-2021 14:05:33 UTC] PHP Fatal error:  Trait 'Laravel\Passport\HasApiTokens' not found in /home/bangotdc/surat/app/User.php on line 12
+[21-Mar-2021 14:21:24 UTC] PHP Fatal error:  Trait 'Laravel\Passport\HasApiTokens' not found in /home/bangotdc/surat/app/User.php on line 12
